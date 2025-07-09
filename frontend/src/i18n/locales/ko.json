@@ -1,0 +1,32 @@
+{
+  "title": "🎤 Mastra 실시간 음성 AI 데모",
+  "subtitle": "음성으로 AI와 대화하며 프레젠테이션을 만들 수 있습니다. (데모용 알파 버전)",
+  "startRecording": "🎤 음성 입력 시작",
+  "stopRecording": "🛑 녹음 중지",
+  "voiceDetection": "음성 감지",
+  "active": "활성",
+  "waiting": "대기 중",
+  "startVoiceInput": "음성 입력을 시작해주세요",
+  "aiResponse": "AI 응답:",
+  "generatingResponse": "응답 생성 중...",
+  "status": "상태",
+  "receiving": "수신 중",
+  "completed": "완료",
+  "progressRate": "진행률",
+  "errorPrefix": "오류:",
+  "contentFilterIssue": "영어 이외의 언어에서 콘텐츠 필터 문제에 대해",
+  "detailInfo": "상세 정보",
+  "responseId": "응답 ID:",
+  "statusDetailsType": "상태 세부 유형:",
+  "statusDetailsReason": "상태 세부 이유:",
+  "notAvailable": "N/A",
+  "language": "언어",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "zh": "中文",
+    "ko": "한국어",
+    "es": "Español",
+    "ru": "Русский"
+  }
+} 

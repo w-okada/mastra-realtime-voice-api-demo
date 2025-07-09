@@ -1,0 +1,32 @@
+{
+  "title": "🎤 Demo de IA de Voz en Tiempo Real de Mastra",
+  "subtitle": "Crea presentaciones mientras hablas con IA a través de voz. (Versión alfa para demostración)",
+  "startRecording": "🎤 Iniciar Entrada de Voz",
+  "stopRecording": "🛑 Detener Grabación",
+  "voiceDetection": "Detección de Voz",
+  "active": "Activo",
+  "waiting": "Esperando",
+  "startVoiceInput": "Por favor, inicie la entrada de voz",
+  "aiResponse": "Respuesta de IA:",
+  "generatingResponse": "Generando respuesta...",
+  "status": "Estado",
+  "receiving": "Recibiendo",
+  "completed": "Completado",
+  "progressRate": "Tasa de Progreso",
+  "errorPrefix": "Error:",
+  "contentFilterIssue": "Sobre problemas del filtro de contenido con idiomas no ingleses",
+  "detailInfo": "Información Detallada",
+  "responseId": "ID de Respuesta:",
+  "statusDetailsType": "Tipo de Detalles de Estado:",
+  "statusDetailsReason": "Razón de Detalles de Estado:",
+  "notAvailable": "N/D",
+  "language": "Idioma",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "zh": "中文",
+    "ko": "한국어",
+    "es": "Español",
+    "ru": "Русский"
+  }
+} 

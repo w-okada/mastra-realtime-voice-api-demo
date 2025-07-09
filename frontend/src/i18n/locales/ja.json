@@ -1,0 +1,32 @@
+{
+  "title": "🎤 Mastra リアルタイム音声AI デモ",
+  "subtitle": "音声でAIと対話しながらプレゼンテーション作成ができます。（デモ用アルファ版です）",
+  "startRecording": "🎤 音声入力開始",
+  "stopRecording": "🛑 録音停止",
+  "voiceDetection": "音声検出",
+  "active": "アクティブ",
+  "waiting": "待機中",
+  "startVoiceInput": "音声入力を開始してください",
+  "aiResponse": "AIの応答:",
+  "generatingResponse": "応答を生成中...",
+  "status": "状態",
+  "receiving": "受信中",
+  "completed": "完了",
+  "progressRate": "進行率",
+  "errorPrefix": "Error:",
+  "contentFilterIssue": "英語以外の言語でcontent-filterにかかりやすい問題について",
+  "detailInfo": "詳細情報",
+  "responseId": "Response ID:",
+  "statusDetailsType": "Status Details Type:",
+  "statusDetailsReason": "Status Details Reason:",
+  "notAvailable": "N/A",
+  "language": "言語",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "zh": "中文",
+    "ko": "한국어",
+    "es": "Español",
+    "ru": "Русский"
+  }
+} 

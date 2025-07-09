@@ -1,0 +1,32 @@
+{
+  "title": "🎤 Mastra 实时语音AI演示",
+  "subtitle": "通过语音与AI对话来创建演示文稿。（演示用Alpha版）",
+  "startRecording": "🎤 开始语音输入",
+  "stopRecording": "🛑 停止录音",
+  "voiceDetection": "语音检测",
+  "active": "活跃",
+  "waiting": "等待中",
+  "startVoiceInput": "请开始语音输入",
+  "aiResponse": "AI回应：",
+  "generatingResponse": "正在生成回应...",
+  "status": "状态",
+  "receiving": "接收中",
+  "completed": "已完成",
+  "progressRate": "进度",
+  "errorPrefix": "错误：",
+  "contentFilterIssue": "关于非英语语言的内容过滤器问题",
+  "detailInfo": "详细信息",
+  "responseId": "响应ID：",
+  "statusDetailsType": "状态详情类型：",
+  "statusDetailsReason": "状态详情原因：",
+  "notAvailable": "不可用",
+  "language": "语言",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "zh": "中文",
+    "ko": "한국어",
+    "es": "Español",
+    "ru": "Русский"
+  }
+} 

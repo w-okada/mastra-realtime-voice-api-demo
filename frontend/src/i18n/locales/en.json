@@ -1,0 +1,32 @@
+{
+  "title": "🎤 Mastra Real-time Voice AI Demo",
+  "subtitle": "Create presentations while talking with AI through voice. (Alpha version for demo)",
+  "startRecording": "🎤 Start Voice Input",
+  "stopRecording": "🛑 Stop Recording",
+  "voiceDetection": "Voice Detection",
+  "active": "Active",
+  "waiting": "Waiting",
+  "startVoiceInput": "Please start voice input",
+  "aiResponse": "AI Response:",
+  "generatingResponse": "Generating response...",
+  "status": "Status",
+  "receiving": "Receiving",
+  "completed": "Completed",
+  "progressRate": "Progress Rate",
+  "errorPrefix": "Error:",
+  "contentFilterIssue": "About content filter issues with non-English languages",
+  "detailInfo": "Detailed Information",
+  "responseId": "Response ID:",
+  "statusDetailsType": "Status Details Type:",
+  "statusDetailsReason": "Status Details Reason:",
+  "notAvailable": "N/A",
+  "language": "Language",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "zh": "中文",
+    "ko": "한국어",
+    "es": "Español",
+    "ru": "Русский"
+  }
+} 
