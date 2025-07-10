@@ -3,7 +3,5 @@ node_modules
 dist 
 .mastra 
 .env.development 
-.env 
 *.db 
 *.db-* 
-workdir
