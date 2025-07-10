@@ -99,6 +99,16 @@ Mastra configuration is managed in the `mastra-voice-app/src/mastra/` directory.
 
 This project is licensed under the MIT License.
 
+## ⚠️ Disclaimer
+
+This project is created for demonstration purposes and is not recommended for production use. Please note the following points when using this application:
+
+- **API Usage Costs**: This application uses OpenAI's Realtime API. API usage incurs charges. Please check [OpenAI's pricing](https://openai.com/pricing) for details.
+- **Data Processing**: Voice data is sent to OpenAI servers. Avoid conversations containing confidential or personal information.
+- **Support**: This demo project is provided for educational and experimental purposes, and continuous support is not guaranteed.
+
+Users are responsible for using this project at their own risk, and the developers assume no responsibility for any costs or issues that may arise.
+
 ## 🆘 Support
 
 If you have any issues or questions, please report them on the GitHub Issues page.
