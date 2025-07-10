@@ -60,7 +60,6 @@ wss.on("connection", async (wsBase) => {
             silence_duration_ms: 1200,
         },
     });
-    const int16Stream = new Int16QueueStream();
     const agent = new Agent({
         name: "Agent",
         instructions: instruction_simple,
@@ -70,6 +69,7 @@ wss.on("connection", async (wsBase) => {
     });
     ws.agent = agent;
     await voice.connect();
+    const int16Stream = new Int16QueueStream();
     voice.send(int16Stream);
 
     // イベント送信関数（各接続用）
