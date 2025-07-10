@@ -2,7 +2,7 @@
 
 Mastra フレームワークを使用したリアルタイム音声通信アプリケーションのデモプロジェクトです。OpenAI のリアルタイム音声 API を活用して、自然な音声対話をしながらプレゼンテーションを作成できます。（という目標）
 
-https://youtu.be/WcDe1c1QiRE
+[!['demo']("https://github.com/user-attachments/assets/02c0f331-d1b6-48a1-a436-ab5638fdc7a9")]('https://youtu.be/WcDe1c1QiRE')
 
 ## 📋 前提条件
 

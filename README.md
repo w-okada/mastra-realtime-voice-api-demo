@@ -4,7 +4,7 @@
 
 A demo project for real-time voice communication applications using the Mastra framework. Utilizing OpenAI's Realtime Voice API to create presentations through natural voice conversations. (The goal)
 
-https://youtu.be/WcDe1c1QiRE
+[!['demo']("https://github.com/user-attachments/assets/02c0f331-d1b6-48a1-a436-ab5638fdc7a9")]('https://youtu.be/WcDe1c1QiRE')
 
 ## 📋 Prerequisites
 
