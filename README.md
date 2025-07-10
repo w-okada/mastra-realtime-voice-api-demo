@@ -4,6 +4,8 @@
 
 A demo project for real-time voice communication applications using the Mastra framework. Utilizing OpenAI's Realtime Voice API to create presentations through natural voice conversations. (The goal)
 
+https://youtu.be/WcDe1c1QiRE
+
 ## 📋 Prerequisites
 
 - Node.js 20.9.0 or higher
